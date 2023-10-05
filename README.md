@@ -5,6 +5,7 @@
 Simple static website for my band, [Hotel Sur](https://open.spotify.com/intl-es/artist/5ZsW4wbMl8qYFZ0L9xvBeu)
 
 🚀 Powered by [Astro](https://astro.build/) 
+
 💻 [Website](https://hotelsur.es)
 
 ## 🧞 Commands

@@ -1,4 +1,4 @@
-# Astro Starter Kit: Basics
+# Hotel Sur Website 2023
 
 ![Hotel Sur Website Mockup](https://github.com/danilopgon/hotel-sur-website-2023/assets/113547781/7babeae3-96cf-4542-8338-6a8706ac3f3b)
 
